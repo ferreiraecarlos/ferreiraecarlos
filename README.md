@@ -30,12 +30,10 @@ Atualmente, concentro meu foco em **Equipamentos de Redes de Acesso, Monitoramen
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/ferreiraecarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraecarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraecarlos&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferreiraecarlos&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraecarlos&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="48%" />
+</p>
 
 ## 📫 Como me encontrar
 
